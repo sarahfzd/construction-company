@@ -1,0 +1,36 @@
+body {
+  background-color: #d8d2c6;
+}
+body .container .menu .nav .right-content a {
+  border-radius: 50px;
+}
+body .container .content .section-1 img {
+  filter: grayscale(40%);
+  filter: brightness(60%);
+  border-radius: 23px;
+}
+body .container .content .section-2 {
+  border-radius: 23px;
+}
+body .container .content .section-2 .text .more-btn {
+  width: 120px;
+  height: 120px;
+  border: 1px solid;
+  border-radius: 50%;
+}
+body .container .content .section-2 .img img {
+  border-radius: 15px;
+}
+body .container .content .section-3 {
+  border-radius: 23px;
+}
+body .container .content .section-3 .background-img {
+  background-image: url(/assets/img/section03-00.jpeg);
+  border-radius: 23px;
+  height: 75vh;
+  filter: grayscale(40%);
+  filter: brightness(40%);
+  opacity: 80%;
+}
+
+/*# sourceMappingURL=home.css.map */
