@@ -76,5 +76,14 @@ body .container .content .section-4 .text .more-btn {
   border: 1px solid;
   border-radius: 50%;
 }
+body .container .content .section-5 {
+  border-radius: 23px;
+}
+body .container .content .section-5 .more-btn {
+  width: 120px;
+  height: 120px;
+  border: 1px solid;
+  border-radius: 50%;
+}
 
 /*# sourceMappingURL=home.css.map */
