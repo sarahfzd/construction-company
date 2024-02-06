@@ -32,5 +32,49 @@ body .container .content .section-3 .background-img {
   filter: brightness(40%);
   opacity: 80%;
 }
+body .container .content .section-3 .more-btn {
+  right: 3%;
+  top: 10%;
+  width: 120px;
+  height: 120px;
+  border: 1px solid;
+  border-radius: 50%;
+}
+body .container .content .section-3 .cards {
+  top: 145%;
+  height: 542px;
+  overflow-y: scroll;
+}
+body .container .content .section-3 .cards .section-3-1 {
+  border-radius: 23px;
+}
+body .container .content .section-3 .cards .section-3-1 .img img {
+  border-radius: 23px;
+}
+body .container .content .section-3 .cards .section-3-2 {
+  border-radius: 23px;
+}
+body .container .content .section-3 .cards .section-3-2 .img img {
+  border-radius: 23px;
+}
+body .container .content .section-3 .cards .section-3-3 {
+  border-radius: 23px;
+}
+body .container .content .section-3 .cards .section-3-3 .img img {
+  border-radius: 23px;
+}
+body .container .content .section-4 {
+  margin-top: 50%;
+  border-radius: 23px;
+}
+body .container .content .section-4 .img img {
+  border-radius: 23px;
+}
+body .container .content .section-4 .text .more-btn {
+  width: 120px;
+  height: 120px;
+  border: 1px solid;
+  border-radius: 50%;
+}
 
 /*# sourceMappingURL=home.css.map */

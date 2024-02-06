@@ -1,4 +1,10 @@
 $border-radius: 23px;
+$position-values: (
+    0: 0,
+    50: 50%,
+    100: 100%,
+    157: 157%
+);
 
 
 body {
@@ -62,7 +68,71 @@ body {
 
                 .text {}
 
+                .more-btn {
+                    right: 3%;
+                    top: 10%;
+                    width: 120px;
+                    height: 120px;
+                    border: 1px solid;
+                    border-radius: 50%;
+                }
+
+                .cards {
+                    top: 145%;
+                    height: 542px;
+                    overflow-y: scroll;
+
+                    .section-3-1 {
+                        border-radius: $border-radius;
+
+                        .img {
+                            img {
+                                border-radius: $border-radius;
+                            }
+                        }
+                    }
+
+                    .section-3-2 {
+                        border-radius: $border-radius;
+
+                        .img {
+                            img {
+                                border-radius: $border-radius;
+                            }
+                        }
+                    }
+
+                    .section-3-3 {
+                        border-radius: $border-radius;
+
+                        .img {
+                            img {
+                                border-radius: $border-radius;
+                            }
+                        }
+                    }
+                }
+
             }
+            .section-4{
+                margin-top: 50%;
+                border-radius: $border-radius;
+                .img{
+                    img{
+                        border-radius: $border-radius;
+                    }
+                }
+                .text{
+                    .more-btn{
+                        width: 120px;
+                        height: 120px;
+                        border: 1px solid;
+                        border-radius: 50%;
+                    }
+                }
+            }
+
+
         }
 
         .footer {}
