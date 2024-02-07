@@ -85,5 +85,9 @@ body .container .content .section-5 .more-btn {
   border: 1px solid;
   border-radius: 50%;
 }
+body .container .content .section-6 {
+  background-color: #ba9f81;
+  border-radius: 23px;
+}
 
 /*# sourceMappingURL=home.css.map */
