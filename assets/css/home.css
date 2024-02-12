@@ -119,5 +119,9 @@ body .container .content .section-6 .content .third div a {
   border: 1px solid;
   border-radius: 50%;
 }
+body .container .footer {
+  background-color: #cda17c;
+  border-radius: 23px;
+}
 
 /*# sourceMappingURL=home.css.map */
