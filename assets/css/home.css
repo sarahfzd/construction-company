@@ -4,6 +4,9 @@ body {
 body .container .menu .nav .right-content a {
   border-radius: 50px;
 }
+body .container .menu .nav .right-content .offcanvas {
+  background-color: #3b3a3a;
+}
 body .container .content .section-1 img {
   filter: grayscale(40%);
   filter: brightness(60%);
