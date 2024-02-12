@@ -137,6 +137,7 @@ body {
 
             .section-5 {
                 border-radius: $border-radius;
+
                 .more-btn {
                     width: 120px;
                     height: 120px;
@@ -145,9 +146,68 @@ body {
                 }
 
             }
-            .section-6{
+
+            .section-6 {
                 background-color: #ba9f81;
                 border-radius: $border-radius;
+
+                .content {
+                    .first {
+                        .top {
+                            div .img {
+                                border-radius: $border-radius;
+                                filter: grayscale(40%);
+                                filter: brightness(40%);
+                                opacity: 80%;
+                            }
+
+                        }
+
+                        .bottom {
+                            div .img {
+                                border-radius: $border-radius;
+                                filter: grayscale(40%);
+                                filter: brightness(40%);
+                                opacity: 80%;
+                            }
+                        }
+                    }
+
+                    .second {
+                        div {
+                            div {
+                                img {
+                                    border-radius: $border-radius;
+                                    filter: grayscale(40%);
+                                    filter: brightness(40%);
+                                    opacity: 80%;
+                                }
+                            }
+                        }
+                    }
+
+                    .third {
+                        div {
+                            div {
+                                img {
+                                    border-radius: $border-radius;
+                                    filter: grayscale(40%);
+                                    filter: brightness(40%);
+                                    opacity: 80%;
+                                }
+                            }
+                        }
+
+                        div {
+                            a {
+                                width: 120px;
+                                height: 120px;
+                                border: 1px solid;
+                                border-radius: 50%;
+                            }
+                        }
+                    }
+                }
             }
 
 

@@ -89,5 +89,35 @@ body .container .content .section-6 {
   background-color: #ba9f81;
   border-radius: 23px;
 }
+body .container .content .section-6 .content .first .top div .img {
+  border-radius: 23px;
+  filter: grayscale(40%);
+  filter: brightness(40%);
+  opacity: 80%;
+}
+body .container .content .section-6 .content .first .bottom div .img {
+  border-radius: 23px;
+  filter: grayscale(40%);
+  filter: brightness(40%);
+  opacity: 80%;
+}
+body .container .content .section-6 .content .second div div img {
+  border-radius: 23px;
+  filter: grayscale(40%);
+  filter: brightness(40%);
+  opacity: 80%;
+}
+body .container .content .section-6 .content .third div div img {
+  border-radius: 23px;
+  filter: grayscale(40%);
+  filter: brightness(40%);
+  opacity: 80%;
+}
+body .container .content .section-6 .content .third div a {
+  width: 120px;
+  height: 120px;
+  border: 1px solid;
+  border-radius: 50%;
+}
 
 /*# sourceMappingURL=home.css.map */
